@@ -1,4 +1,3 @@
-import numpy as np
 import time
 
 now = time.strftime('%H:%M %p')
